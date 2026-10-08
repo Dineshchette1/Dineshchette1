@@ -6,11 +6,11 @@ I work on securing and automating cloud infrastructure: building AWS environment
 
 ### 🔧 Skills
 
-**Cloud & IaC:** AWS (VPC, EC2, Auto Scaling, RDS, S3, ECR, CloudWatch, SNS) · Terraform
-**Containers:** Docker · docker-compose · Kubernetes · Helm
-**CI/CD & DevSecOps:** GitHub Actions · CodeQL (SAST) · Checkov (IaC scanning)
-**Observability:** Prometheus · Alertmanager · incident response automation
-**Languages:** Python (FastAPI) · SQL / PostgreSQL · learning Java
+- **Cloud & IaC:** AWS (VPC, EC2, Auto Scaling, RDS, S3, ECR, CloudWatch, SNS) · Terraform
+- **Containers:** Docker · docker-compose · Kubernetes · Helm
+- **CI/CD & DevSecOps:** GitHub Actions · CodeQL (SAST) · Checkov (IaC scanning)
+- **Observability:** Prometheus · Alertmanager · incident response automation
+- **Languages:** Python (FastAPI) · SQL / PostgreSQL · learning Java
 
 ### 📂 Featured projects
 
