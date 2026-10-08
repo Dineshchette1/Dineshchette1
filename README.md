@@ -1,18 +1,25 @@
 # Hi, I'm Dinesh Chette 👋
 
-**Cloud Security · Cloud Engineering · DevSecOps** · Mississauga, Ontario 🇨🇦
+**Cloud Engineer · AWS · Azure · Terraform · Kubernetes · CI/CD & GitOps** · Mississauga, Ontario 🇨🇦
 
-Cloud Security graduate (Sheridan College) focused on building secure, automated cloud infrastructure: AWS environments as code with Terraform, containers on Kubernetes, CI/CD pipelines with security scanning built in, and observability that turns alerts into fast incident response.
+Cloud Engineer with 4+ years keeping high-volume payment and payroll platforms secure and available on AWS and Microsoft Azure. I specialize in Infrastructure as Code, Kubernetes platforms (EKS, AKS), and CI/CD and GitOps automation with approval gates and security scanning, backed by a Postgraduate Diploma in Cloud Security.
+
+### 💼 Experience
+
+- **Cloud Engineer — PayPal**, Toronto · Sep 2025 – Present
+  AWS infrastructure with Terraform & CloudFormation · EKS with Helm & Argo CD · CI/CD in Jenkins & GitHub Actions with Trivy scanning · Secrets Manager, KMS & Vault · CloudWatch, Prometheus & Grafana
+- **Cloud Operations Engineer — ADP**, Hyderabad · Nov 2021 – Dec 2024
+  Azure (AKS, App Service, Functions) with Terraform & ARM/Bicep · Jenkins & Azure DevOps pipelines · Entra ID & Key Vault · Azure Monitor & ELK · DR testing (RTO/RPO)
 
 ### 🔧 Skills
 
-- **Cloud:** AWS (VPC, EC2, Auto Scaling, RDS, S3, ECR, IAM, CloudWatch, SNS)
-- **Infrastructure as Code:** Terraform (modular design)
-- **Containers & Orchestration:** Docker · docker-compose · Kubernetes · Helm
-- **CI/CD & DevSecOps:** GitHub Actions · CodeQL (SAST) · Checkov (IaC scanning)
-- **Security & Networking:** IAM & least privilege · VPC segmentation · private subnets · NAT · security groups & NACLs
-- **Observability:** Prometheus · Alertmanager · CloudWatch · incident response & postmortems
-- **Scripting & OS:** Python (FastAPI) · Bash · Linux · SQL / PostgreSQL
+- **Cloud:** AWS (EC2, S3, RDS, Lambda, API Gateway, VPC, IAM, ELB/ALB, Auto Scaling, Route 53) · Microsoft Azure (AKS, App Service, Functions, EventHub, VNets, Entra ID, Key Vault)
+- **Infrastructure as Code:** Terraform · CloudFormation · ARM/Bicep · Ansible
+- **Containers & Orchestration:** Docker · Kubernetes · Helm · EKS · AKS · ECS/Fargate · OpenShift
+- **CI/CD & GitOps:** GitHub Actions · Jenkins · Azure DevOps · Argo CD · SonarQube · CodeQL · Trivy · Checkov
+- **Security & Networking:** IAM · Secrets Manager · KMS · HashiCorp Vault · AWS WAF · Defender for Cloud · VPC/VNet segmentation · private endpoints · VPN/Direct Connect
+- **Observability:** CloudWatch · Prometheus · Grafana · Azure Monitor · ELK · Splunk · SLO-based alerting
+- **Scripting & OS:** Python · Bash · Linux (RHEL)
 
 ### 📂 Featured projects
 
@@ -31,4 +38,4 @@ Cloud Security graduate (Sheridan College) focused on building secure, automated
 
 ### 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/dineshchette) · Open to cloud engineering, cloud security and DevSecOps roles in the GTA.
+[LinkedIn](https://linkedin.com/in/dineshchette) · Open to cloud engineering, cloud security and DevSecOps opportunities in the GTA.
