@@ -6,9 +6,9 @@ Cloud Engineer with 4+ years keeping high-volume payment and payroll platforms s
 
 ### 💼 Experience
 
-- **Cloud Engineer — PayPal**, Toronto · Sep 2025 – Present
+- **Cloud Engineer — PayPal**, Toronto · Sep 2025 – Present<br>
   AWS infrastructure with Terraform & CloudFormation · EKS with Helm & Argo CD · CI/CD in Jenkins & GitHub Actions with Trivy scanning · Secrets Manager, KMS & Vault · CloudWatch, Prometheus & Grafana
-- **Cloud Operations Engineer — ADP**, Hyderabad · Nov 2021 – Dec 2024
+- **Cloud Operations Engineer — ADP**, Hyderabad · Nov 2021 – Dec 2024<br>
   Azure (AKS, App Service, Functions) with Terraform & ARM/Bicep · Jenkins & Azure DevOps pipelines · Entra ID & Key Vault · Azure Monitor & ELK · DR testing (RTO/RPO)
 
 ### 🔧 Skills
