@@ -24,6 +24,7 @@ Cloud Security graduate (Sheridan College) focused on building secure, automated
 ### 🎓 Education
 
 **Postgraduate Diploma in Cloud Security** — Sheridan College Institute of Technology and Advanced Learning
+
 <sub>Coursework: Kubernetes & Securing Microservices · DevOps & Automation Management · Site Reliability & Observability · Identity & Access Control · Cloud Networks & Identity Management · Data Security & Compliance · Containerization · Python · Linux</sub>
 
 **Bachelor of Computer Science** — Telangana University, India
