@@ -1,16 +1,18 @@
 # Hi, I'm Dinesh Chette 👋
 
-**Cloud Security** · Mississauga, Ontario 🇨🇦
+**Cloud Security · Cloud Engineering · DevSecOps** · Mississauga, Ontario 🇨🇦
 
-I work on securing and automating cloud infrastructure: building AWS environments with Terraform, shipping them through CI/CD pipelines, and baking security scanning and monitoring in from the start.
+Cloud Security graduate (Sheridan College) focused on building secure, automated cloud infrastructure: AWS environments as code with Terraform, containers on Kubernetes, CI/CD pipelines with security scanning built in, and observability that turns alerts into fast incident response.
 
 ### 🔧 Skills
 
-- **Cloud & IaC:** AWS (VPC, EC2, Auto Scaling, RDS, S3, ECR, CloudWatch, SNS) · Terraform
-- **Containers:** Docker · docker-compose · Kubernetes · Helm
+- **Cloud:** AWS (VPC, EC2, Auto Scaling, RDS, S3, ECR, IAM, CloudWatch, SNS)
+- **Infrastructure as Code:** Terraform (modular design)
+- **Containers & Orchestration:** Docker · docker-compose · Kubernetes · Helm
 - **CI/CD & DevSecOps:** GitHub Actions · CodeQL (SAST) · Checkov (IaC scanning)
-- **Observability:** Prometheus · Alertmanager · incident response automation
-- **Languages:** Python (FastAPI) · SQL / PostgreSQL · learning Java
+- **Security & Networking:** IAM & least privilege · VPC segmentation · private subnets · NAT · security groups & NACLs
+- **Observability:** Prometheus · Alertmanager · CloudWatch · incident response & postmortems
+- **Scripting & OS:** Python (FastAPI) · Bash · Linux · SQL / PostgreSQL
 
 ### 📂 Featured projects
 
@@ -21,10 +23,11 @@ I work on securing and automating cloud infrastructure: building AWS environment
 
 ### 🎓 Education
 
-- Postgraduate Diploma, **Cloud Security** (Ontario)
-- Postgraduate Diploma, Business Analysis & Process Management (Ontario)
-- BSc, Computer Science, Telangana University
+**Postgraduate Diploma in Cloud Security** — Sheridan College Institute of Technology and Advanced Learning
+<sub>Coursework: Kubernetes & Securing Microservices · DevOps & Automation Management · Site Reliability & Observability · Identity & Access Control · Cloud Networks & Identity Management · Data Security & Compliance · Containerization · Python · Linux</sub>
+
+**Bachelor of Computer Science** — Telangana University, India
 
 ### 📫 Connect
 
-Open to cloud security, cloud engineering and DevSecOps roles in the GTA.
+[LinkedIn](https://linkedin.com/in/dineshchette) · Open to cloud engineering, cloud security and DevSecOps roles in the GTA.
