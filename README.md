@@ -27,6 +27,7 @@ Cloud Engineer with 4+ years keeping high-volume payment and payroll platforms s
 |---|---|
 | [ALLSTARS-portfolio](https://github.com/Dineshchette1/ALLSTARS-portfolio) | Team capstone: FastAPI e-commerce backend on AWS. Modular Terraform (VPC, EC2/ASG, RDS, S3), least-privilege networking, CodeQL scanning. **My role: GitHub Actions CI/CD** (Docker → ECR → Terraform deploy). |
 | [Lab9-SRO](https://github.com/Dineshchette1/Lab9-SRO) | Incident response lab: Prometheus alert rules + Alertmanager routing to a Python incident handler that runs automated responses and generates postmortem reports. |
+| [college-devops-support-lab](https://github.com/Dineshchette1/college-devops-support-lab) | Support lab for a college IT setup: Flask REST API with role-based access, nightly SIS-to-LMS integration with data validation, 21 pytest tests, health monitoring, GitHub Actions CI, and a full practice incident with runbook. |
 
 ### 🎓 Education
 
